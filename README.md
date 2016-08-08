@@ -1,5 +1,7 @@
 # Apollo client + server demo
 
+> Looking for an up-to-date Apollo example? Check out [GitHunt](https://github.com/apollostack/GitHunt)!
+
 This is a simple app that uses:
 
 1. React and Material UI for the frontend
