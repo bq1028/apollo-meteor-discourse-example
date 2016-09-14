@@ -1,5 +1,6 @@
 # Apollo client + server demo
 
+> *NOTE*: This example is out of date!
 > Looking for an up-to-date Apollo example? Check out [GitHunt](https://github.com/apollostack/GitHunt)!
 
 This is a simple app that uses:
