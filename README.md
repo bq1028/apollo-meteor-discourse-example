@@ -1,5 +1,7 @@
 # Apollo client + server demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/apollographql/apollo-meteor-discourse-example.svg)](https://greenkeeper.io/)
+
 > *NOTE*: This example is out of date!
 > Looking for an up-to-date Apollo example? Check out [GitHunt](https://github.com/apollostack/GitHunt)!
 
